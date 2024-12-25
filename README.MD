@@ -10,5 +10,5 @@ Project is currently version 0.1. Some more verbs and game options will be added
 - Choose a Tense (Present, Indefinido, Imperfect, conditional, future, subjonctive, imperative forms)
 - Gain points and confidence in using spanish verbs
 **Contributors:** My Spanish Teacher at Cervantes motivated me to improve my grammer mastery 
-**Change log:** Version 0.1
+**Change log:** Version 0.2
 **License:** MIT licence seems to be popular and really open.
