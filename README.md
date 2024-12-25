@@ -1,4 +1,5 @@
-#**Project description:**
+##
+**Project description:**
 This is a Text only Game in Python where code has been written by ChatGPT using PromptEngineering commands in french (see text attached)
 **Installation:**
 Just run the program which is using a database of verbs which can be extended if need be. For 2024, I plan to have the 100 most used verbs (regular and non regular).
